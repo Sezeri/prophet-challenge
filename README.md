@@ -1,1 +1,7 @@
 # prophet-challenge
+This is my completion and submission of my Week 8 Module challenge.
+A few noteworthy mentions:
+    1. The instructions in the starter code are not very clear and led to more confusion. For instance, in the last step (Step 4), there was a mention of components plotting for Canada when no data for Canada were provided. It was later learned with the assistance of TA Alberto that the components we were after were those of the same Latin America Mercado Libre, not those of Canada. That was a considerable waste of time.
+    2. Moreover, I tried to use Colab to push my work to the repo and no one in the class (including the TAs) was able to assist with that yesterday when the instructor was absent. Subsequenty, I saved that question for the instructor. You can see the Python command lines I used to make that happen at the bottom of the challenge, along with the issue I encountered. 
+
+In sum, if I learned how to add, commit (with a commiot message), and push in other platforms like Git Bash and Visual Studio, I would very much like to learn and control the pushing in Colab as well without using the "File/Save to Github" option where I have no control over the commit messages. I know this is doable. But I need help to learn how.
